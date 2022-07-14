@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SkyboxGen": {
+      "commandName": "Project",
+      "commandLineArgs": "2 E:\\Temp\\SampleSkybox.jpg"
+    }
+  }
+}
