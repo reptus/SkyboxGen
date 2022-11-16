@@ -3,7 +3,7 @@ If you need to create skyboxes to be used in Unity or another tool, you can choo
 A Skybox is a 6 side box  (Up, Down, Front, Back, Left, Right) that represents the background seen by a camera in some 3D tools like Unity.
 Generate a set of skybox tiles from a single image in four different configurations:
 
-
+![Configurations](./SkyboxTemplateConfigs.png)
       
 
 Usage: Skyboxgen skyboxType[0..3] file
